@@ -1,5 +1,5 @@
 # Hackathon Wikimedia Portugal na [Festa do Software Livre 2023](https://festa2023.softwarelivre.eu/)
-Lita de documentação e projectos disponíveis.
+Lista de documentação e projectos disponíveis.
 
 ## Documentação geral e recursos
 - [Lista de desejos tecnológicos da Lusofonia](https://meta.wikimedia.org/wiki/Lista_de_desejos_tecnol%C3%B3gicos_da_lusofonia/Propostas)
